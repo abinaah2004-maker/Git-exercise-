@@ -1,1 +1,1 @@
-# Git-exercise-
+# Git-exercise-Today I learned how to use Git status in VS Code.
